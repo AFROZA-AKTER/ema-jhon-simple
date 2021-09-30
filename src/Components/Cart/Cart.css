@@ -1,0 +1,11 @@
+.text-style{
+    text-align: left;
+    padding: 10px;
+}
+p{
+    font-weight: 500;
+}
+.total-style{
+    color: darkred ;
+    font-weight: 800;
+}
